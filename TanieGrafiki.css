@@ -1,0 +1,29 @@
+
+body {
+	margin: 20px;
+}
+
+body {
+	text-align: center;
+}
+
+body { background-color: purple;
+	background-image: url(niebo.jpg); 
+	 
+}
+
+.Ramka1 {
+	solid
+}
+
+.Ramka1 {
+	padding-top:1px;
+	padding-bottom:1px;
+	padding-left:1px;
+	padding-right:1px;
+}
+
+.Ramka1 {
+	background-color: gray;
+	
+}
